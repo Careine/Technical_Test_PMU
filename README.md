@@ -27,10 +27,23 @@ npm install
 ## **Project Structure**
 
 ```
-
 ├── tests
 │   └── mes_paris.spec.js     # Example test file
 ├── playwright.config.js      # Playwright configuration file
 ├── package.json              # Project metadata and scripts
 └── README.md                 # Project documentation
 ```
+
+## Exécution des tests
+
+Vous pouvez exécuter tous les tests ou des tests spécifiques à l'aide du programme d'exécution des tests Playwright.
+### Exécution 
+ ```
+npx playwright test
+```
+### Exécution en mode UI
+
+```
+npx playwright test --ui
+```
+
