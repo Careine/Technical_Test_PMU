@@ -5,7 +5,7 @@ Ce projet est conçu pour automatiser le test du bouton "Mes paris" en haut de l
 
 ## **Prerequisites**
 
-* Node.js v18.4.0
+* Node.js (>=18.x)
 + npm (Node Package Manager)
 
 ## **Installation**
