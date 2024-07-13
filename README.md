@@ -13,7 +13,7 @@ Ce projet est conçu pour automatiser le test du bouton "Mes paris" en haut de l
 1. Clone the repository:
 
 ```
-git clone <repository_url>
+git clone https://github.com/Careine/Technical_Test_PMU.git
 cd <repository_directory>
 ```
 
@@ -26,8 +26,11 @@ npm install
 
 ## **Project Structure**
 
+```
+
 ├── tests
-│   └── mes_paris.spec.js       # Example test file
+│   └── mes_paris.spec.js     # Example test file
 ├── playwright.config.js      # Playwright configuration file
 ├── package.json              # Project metadata and scripts
 └── README.md                 # Project documentation
+```
