@@ -27,6 +27,8 @@ npm install
 ## **Project Structure**
 
 ```
+├── test-results
+│   └── .last-run.json        # Last run result test file
 ├── tests
 │   └── mes_paris.spec.js     # Example test file
 ├── playwright.config.js      # Playwright configuration file
