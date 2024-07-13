@@ -24,6 +24,13 @@ cd <repository_directory>
 npm install
 ```
 
+3. Install Playwright
+
+ 
+```
+npx playwright install
+```
+
 ## **Project Structure**
 
 ```
